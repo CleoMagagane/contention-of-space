@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: presentation
+authors:
+  - family-names: Magagane
+    given-names: Cleo
+    affiliation: "Wits School of Governance, University of the Witwatersrand, Johannesburg"
+title: "Contention of Space: Whose Imagination Matters? The Future of Creative Economies"
+version: 1.0.0
+date-released: 2026-06-02
+  DOI: 10.5281/zenodo.20778419
+url: "https://CleoMagagane.github.io/contention-of-space"
+repository-code: "https://github.com/CleoMagagane/contention-of-space"
+license: CC-BY-NC-ND-4.0
+abstract: >
+  This Futures Literacy Lab presentation draws on an ongoing PhD research project
+  examining imagination-based approaches to planning and governing the African city.
+  It was prepared for Antwerp Management School's Leadership in Culture Programme,
+  Lab 6, 2026. It explores the contention of space in African cities, the role of
+  creative economies in urban life, and the application of Futures Literacy Labs
+  as a participatory foresight methodology.
+keywords:
+  - futures literacy
+  - creative economies
+  - African cities
+  - urban planning
+  - imagination
+  - Futures Literacy Lab
+  - urban governance
+  - Causal Layered Analysis
+  - foresight
